@@ -1,9 +1,5 @@
 # SelfArchive (自我档案)
 
-<p align="center">
-  <img src="[docs/test.jpg](https://github.com/user-attachments/assets/215663a6-1b92-4e00-b575-11e3ef1c26d8)" width="80%" />
-</p>
-
 基于 Flutter 的高质感自我探索应用原型，以「侦探墙」为核心交互，聚合主题与线索卡片，支持离线本地保存。
 
 ## 主要功能
