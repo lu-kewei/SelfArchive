@@ -1,0 +1,43 @@
+name: self_archive
+description: A high-quality self-discovery app.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_riverpod: ^2.4.9
+  riverpod_annotation: ^2.3.3
+  freezed_annotation: ^2.4.1
+  json_annotation: ^4.8.1
+  isar: ^3.1.0
+  isar_flutter_libs: ^3.1.0
+  path_provider: ^2.1.1
+  image_gallery_saver: ^2.0.3
+  permission_handler: ^11.3.0
+  uuid: ^4.2.1
+  equatable: ^2.0.5
+  google_fonts: ^6.1.0
+  vector_math: ^2.1.4
+  shared_preferences: ^2.2.2
+  image_picker: ^1.0.7
+  file_picker: ^6.1.1
+  intl: ^0.19.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+  build_runner: ^2.4.8
+  riverpod_generator: ^2.3.9
+  freezed: ^2.4.6
+  json_serializable: ^6.7.1
+  isar_generator: ^3.1.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
