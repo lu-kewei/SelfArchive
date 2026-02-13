@@ -6,7 +6,7 @@ part of 'board_controller.dart';
 // RiverpodGenerator
 // **************************************************************************
 
-String _$boardControllerHash() => r'024b42cf2b12269ce10c33119a59ca5814873b34';
+String _$boardControllerHash() => r'a7dab56edbe0728fc90ff2227d3ef58b94ce3895';
 
 /// See also [BoardController].
 @ProviderFor(BoardController)
